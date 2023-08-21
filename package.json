@@ -1,0 +1,7 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "dependencies": {
+    "heap": "^0.2.7"
+  }
+}
